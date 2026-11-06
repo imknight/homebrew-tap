@@ -1,6 +1,6 @@
 cask "hookfeed" do
-  version "0.1.0"
-  sha256 "cd38255369ce5421174c9de3618bb2c7504c44f624407bcb2f3a3f001b42f7d5"
+  version "0.2.0"
+  sha256 "38d0f17f6b3bf6bd7a0c1325d70935aac0e5662bae5111d738b3119ef2032a7a"
 
   url "https://github.com/imknight/hookfeed/releases/download/v#{version}/HookFeed-#{version}.zip"
   name "HookFeed"
